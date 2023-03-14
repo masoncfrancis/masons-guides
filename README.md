@@ -5,7 +5,7 @@
 * [Travelling To New York City](nyc/README.md)
 * [Travelling A Long Distance Amtrak Route In Coach](amtrak/README.md)
 
-## What Is This Anyway?
+## What Is This, Anyway?
 
 This repository contains my personal tips for doing all of the things listed above. None of these are intended
 to be a comprehensive guide. The intended audience for these tips are people who are doing the above things for 
