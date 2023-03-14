@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Travelling To New York City](nyc/README.md)
-* [Travelling On A Long Distance Amtrak Route In Coach](amtrak/README.md)
+* [Travelling A Long Distance Amtrak Route In Coach](amtrak/README.md)
 
 ## What Is This?
 
