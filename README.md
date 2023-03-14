@@ -9,7 +9,7 @@
 
 This repository contains my personal tips for doing all of the things listed above. None of these are intended
 to be a comprehensive guide. The intended audience for these tips are people who are doing the above things for 
-their first time. I'm not the most qualified person to give you these tips, and I don't pretend to be an expert 
-either. Also, some of these tips reflect my personal preferences, just so you know. You'll probably have different
-ones. Regardless, I'm hoping I can help you get started off on the right foot. LMK if theres anything you think I 
-should add to these. 
+their first time. I'm probably not the most qualified person to give you advice on this stuff, and I don't pretend 
+to be an expert either. Also, some of these tips reflect my personal preferences, just so you know. You'll probably 
+have different ones than me. Regardless, I'm hoping I can help you get started off on the right foot. LMK if there's 
+anything you think I should add or change.
