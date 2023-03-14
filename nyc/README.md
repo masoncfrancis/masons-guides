@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Where To Stay](lodging.md)
-* [Getting There and Leaving](arriveandleave.md)
+* [Getting There and Leaving From The Airport](airport.md)
 * [The Subway](subway.md)
 * [Broadway](broadway.md)
 * [Other Stuff To Do](stufftodo.md)
