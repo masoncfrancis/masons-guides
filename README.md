@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-* [Travelling to New York City](nyc/README.md)
-* [Travelling on a long distance Amtrak route in Coach](amtrak/README.md)
+* [Travelling To New York City](nyc/README.md)
+* [Travelling On A Long Distance Amtrak Route In Coach](amtrak/README.md)
