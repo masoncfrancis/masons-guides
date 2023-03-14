@@ -6,6 +6,7 @@
 * [Getting There and Leaving](arriveandleave.md)
 * [The Subway](subway.md)
 * [Broadway](broadway.md)
+* [Other Stuff To Do](stufftodo.md)
 
 ## About
 
