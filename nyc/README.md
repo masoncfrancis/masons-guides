@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* Where To Stay
-* Getting There and Leaving
-* The Subway
-* Broadway
+* [Where To Stay](lodging.md)
+* [Getting There and Leaving](arriveandleave.md)
+* [The Subway](subway.md)
+* [Broadway](broadway.md)
