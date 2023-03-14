@@ -4,7 +4,7 @@
 
 * [Where To Stay](lodging.md)
 * [Getting There and Leaving From The Airport](airport.md)
-* [The Subway](subway.md)
+* [Getting Around](gettingaround.md)
 * [Broadway](broadway.md)
 * [Other Stuff To Do](stufftodo.md)
 
