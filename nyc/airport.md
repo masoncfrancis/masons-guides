@@ -4,7 +4,7 @@ This section will help you figure out how to travel between Manhattan and the ai
 on which airport you are flying in/out of. 
 
 I personally recommend using Google Maps to help you get to your specific destination. For information on how to
-get around once you're in Manhattan, read my [Getting Around](gettingaround.md) spage. 
+get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
 
 There are three airports:
 
