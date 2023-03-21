@@ -28,7 +28,7 @@ the Howard Beach one. If you're staying in Manhattan, it doesn't matter because 
 
 Once you get to the Jamaica or Howard Beach station, you'll need to pay the fare for the AirTrain as you exit the AirTrain
 station and enter the subway station. The fare is $8.25, and you have to pay for it using a MetroCard (see 
-[getting around](gettingaround.md)). 
+[Getting Around](gettingaround.md)). 
 
 If you're at the Jamaica Station, make sure to follow signs for the ![E train logo](img/e.png) train going towards Queens and 
 Manhattan so you get on the train going in the right direction.
