@@ -8,8 +8,8 @@ If you take train and/or bus, you'll pay between 3-10 dollars. If you take a tax
 of 50 bucks. 
 
 I personally recommend using Google Maps to help you get to your specific destination, and to figure out which specific train/bus 
-to take because you might have a few options. For information on how to get around once you're in Manhattan, read my 
-[Getting Around](gettingaround.md) page. 
+to take because you might have a few options. These are just general directions for how to get to Manhattan. For information on 
+how to get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
 
 There are three airports around New York City:
 
