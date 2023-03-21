@@ -26,10 +26,24 @@ the Howard Beach one. If you're staying in Manhattan, it doesn't matter because 
 
 ###### Image courtesy [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
 
-You will need to pay for 
+Once you get to the Jamaica or Howard Beach station, you'll need to pay the fare for the AirTrain as you exit the AirTrain
+station and enter the subway station. The fare is $8.25, and you have to pay for it using a MetroCard (see 
+[getting around](gettingaround.md)). 
+
+If you're at the Jamaica Station, make sure to follow signs for the ![E train logo](img/e.png) train going towards Queens and 
+Manhattan so you get on the train going in the right direction.
+
+If you're at the Howard Beach station, you'll need to follow signs for the ![A train logo](img/a.png) train going towards 
+Brooklyn and Manhattan. 
+
+To go back to JFK, you'll need to make sure to get back off the subway and onto the AirTrain at either Howard Beach or Jamaica 
+stations. It doesn't matter which when you're going to the airport.
 
 
 ## LaGuardia (LGA)
 
 
 ## Newark (EWR)
+
+
+###### Train letter bullets courtesy of [The Metropolitan Transportation Authority of New York](https://new.mta.info)
