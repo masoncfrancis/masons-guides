@@ -39,6 +39,8 @@ If you're at the Jamaica station, make sure to follow signs for the ![E train lo
 Manhattan. If you're at the Howard Beach station, you'll need to follow signs for the ![A train logo](img/a.png) train going towards 
 Brooklyn and Manhattan. 
 
+TODO add J and Z trains to Jamaica
+
 To go back to JFK, you'll need to make sure to get back off the subway and onto the AirTrain at either Howard Beach or Jamaica 
 stations. It doesn't matter which one you choose if you're going to the airport.
 
