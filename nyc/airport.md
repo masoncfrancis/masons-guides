@@ -30,10 +30,9 @@ Once you get to the Jamaica or Howard Beach station, you'll need to pay the fare
 station and enter the subway station. The fare is $8.25, and you have to pay for it using a MetroCard (see 
 [Getting Around](gettingaround.md)). 
 
+You need to make sure you're getting on the subway train headed in the right direction.
 If you're at the Jamaica station, make sure to follow signs for the ![E train logo](img/e.png) train going towards Queens and 
-Manhattan so you get on the train going in the right direction.
-
-If you're at the Howard Beach station, you'll need to follow signs for the ![A train logo](img/a.png) train going towards 
+Manhattan. If you're at the Howard Beach station, you'll need to follow signs for the ![A train logo](img/a.png) train going towards 
 Brooklyn and Manhattan. 
 
 To go back to JFK, you'll need to make sure to get back off the subway and onto the AirTrain at either Howard Beach or Jamaica 
