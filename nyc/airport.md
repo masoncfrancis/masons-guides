@@ -30,7 +30,7 @@ Once you get to the Jamaica or Howard Beach station, you'll need to pay the fare
 station and enter the subway station. The fare is $8.25, and you have to pay for it using a MetroCard (see 
 [Getting Around](gettingaround.md)). 
 
-If you're at the Jamaica Station, make sure to follow signs for the ![E train logo](img/e.png) train going towards Queens and 
+If you're at the Jamaica station, make sure to follow signs for the ![E train logo](img/e.png) train going towards Queens and 
 Manhattan so you get on the train going in the right direction.
 
 If you're at the Howard Beach station, you'll need to follow signs for the ![A train logo](img/a.png) train going towards 
