@@ -7,7 +7,8 @@ I personally recommend using Google Maps to help you get to your specific destin
 get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
 
 Unless you want to pay a lot of money, **do not** take a taxi or Uber/Lyft to or from the airport. They're crazy expensive.
-If you take the train, you'll pay about $10. If you take a taxi/Uber/Lyft, you're probably looking at upwards of 50 bucks. 
+If you take train and/or bus, you'll pay between 3-10 dollars. If you take a taxi/Uber/Lyft, you're probably looking at upwards
+of 50 bucks. 
 
 There are three airports:
 
