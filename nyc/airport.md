@@ -10,7 +10,7 @@ Unless you want to pay a lot of money, **do not** take a taxi or Uber/Lyft to or
 If you take train and/or bus, you'll pay between 3-10 dollars. If you take a taxi/Uber/Lyft, you're probably looking at upwards
 of 50 bucks. 
 
-There are three airports:
+There are three airports around New York City:
 
 * John F Kennedy (JFK)
 * LaGuardia (LGA)
