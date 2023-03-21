@@ -36,7 +36,7 @@ Manhattan. If you're at the Howard Beach station, you'll need to follow signs fo
 Brooklyn and Manhattan. 
 
 To go back to JFK, you'll need to make sure to get back off the subway and onto the AirTrain at either Howard Beach or Jamaica 
-stations. It doesn't matter which when you're going to the airport.
+stations. It doesn't matter which one you choose if you're going to the airport.
 
 
 ## LaGuardia (LGA)
