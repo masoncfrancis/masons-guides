@@ -6,6 +6,9 @@ on which airport you are flying in/out of.
 I personally recommend using Google Maps to help you get to your specific destination. For information on how to
 get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
 
+Unless you want to pay a lot of money, **do not** take a taxi or Uber/Lyft to or from the airport. They're crazy expensive.
+If you take the train, you'll pay about $10. If you take a taxi/Uber/Lyft, you're probably looking at upwards of 50 bucks. 
+
 There are three airports:
 
 * John F Kennedy (JFK)
@@ -20,7 +23,7 @@ The first train is at the airport. It's called the AirTrain. The AirTrain goes b
 and also connects you to the subway system. There are two AirTrains you need to know about. One goes to the Jamaica 
 subway station, and the other goes to the Howard Beach subway station. You can use either to get into Manhattan. If 
 you're staying in Queens, it's probably better to take the Jamaica one. If you're staying in Brooklyn, probably take 
-the Howard Beach one. If you're staying in Manhattan, it doesn't matter because both will take you there. 
+the Howard Beach one. If you're staying in Manhattan, it doesn't matter because both will take you where you need to go. 
 
 ![AirTrain map](img/jfk-airTrain-graphic.png)
 
