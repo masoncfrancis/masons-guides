@@ -7,8 +7,9 @@ Unless you want to pay a lot of money, **do not** take a taxi or Uber/Lyft to or
 If you take train and/or bus, you'll pay between 3-10 dollars. If you take a taxi/Uber/Lyft, you're probably looking at upwards
 of 50 bucks. 
 
-I personally recommend using Google Maps to help you get to your specific destination, and which train/bus to take. For information
-on how to get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
+I personally recommend using Google Maps to help you get to your specific destination, and to figure out which specific train/bus 
+to take because you might have a few options. For information on how to get around once you're in Manhattan, read my 
+[Getting Around](gettingaround.md) page. 
 
 There are three airports around New York City:
 
