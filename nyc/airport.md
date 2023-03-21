@@ -36,7 +36,7 @@ the subway station. The AirTrain fare is $8.25, and you have to pay for it using
 Subway fare is $2.75, and you can pay that with a MetroCard or by tapping your card/phone on the OMNY reader (see
 [Getting Around](gettingaround.md) for more info).
 
-You need to make sure you're getting on the subway train headed in the right direction.If you're at the Jamaica station, 
+You need to make sure you're getting on the subway train headed in the right direction. If you're at the Jamaica station, 
 make sure to follow signs for the ![E train logo](img/e.png), ![J train logo](img/j.png), or ![Z train logo](img/z.png)
 trains toward Manhattan as shown in the map above. You can use Google Maps to figure out which one is best for where you
 want to go. **Do not** get on a train for the Long Island Rail Road (LIRR). If you're at the Howard Beach station, you'll 
