@@ -17,15 +17,17 @@ There are three airports:
 To get to Manhattan from JFK, you'll be taking a series of trains. 
 
 The first train is at the airport. It's called the AirTrain. The AirTrain goes between terminals at the airport
-and also connects you to the subway system. 
-
-There are two trains. One goes to the Jamaica subway station, and the other goes to the Howard Beach subway station.
-You can use either to get into Manhattan. If you're staying in Queens, it's probably better to take the Jamaica one. 
-If you're staying in Brooklyn, probably take the Howard Beach one. 
+and also connects you to the subway system. There are two AirTrains you need to know about. One goes to the Jamaica 
+subway station, and the other goes to the Howard Beach subway station. You can use either to get into Manhattan. If 
+you're staying in Queens, it's probably better to take the Jamaica one. If you're staying in Brooklyn, probably take 
+the Howard Beach one. If you're staying in Manhattan, it doesn't matter because both will take you there. 
 
 ![AirTrain map](img/jfk-airTrain-graphic.png)
 
 ###### Image courtesy [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
+
+You will need to pay for 
+
 
 ## LaGuardia (LGA)
 
