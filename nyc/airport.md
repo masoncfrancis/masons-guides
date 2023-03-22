@@ -56,10 +56,15 @@ stations. It doesn't matter which one you choose if you're going to the airport.
 I gotta be honest, Newark is my least favorite of all the NYC airports. It's big. old, and getting to Manhattan can be confusing.
 That's my opinion, anyway. 
 
-To get from Newark (EWR) to Manhattan, you'll be taking a series of trains.
+To get from Newark (EWR) to Manhattan, you'll be taking a series of trains. There are multiple ways to get to Manhattan but I'm going to tell you the easiest way.
 
 The first train is at the airport. It's called the AirTrain. The AirTrain goes between terminals at the airport
-and also connects you to the train to Manhattan. It's pretty simple. You just get on, and get off at the NJ Transit + Amtrak station shown on the map below. 
+and also connects you to the train to Manhattan. It's pretty simple. You just get on, and get off at the Newark Liberty International 
+Airport RailLink Station shown on the map below. 
+
+When you get to that station, you'll need to pay the fare. The fare is $8.25 and covers both the AirTrain trip that you just finished and the next train 
+you'll be getting on to go to Manhattan. This is where it gets confusing. Fun fact, Newark Airport is in New Jersey, so you'll need to take an NJ Transit 
+train to New York. From the AirTrain, you'll need to walk across the bridge and down the stairs (or elevator) to the platform. continue...
 
 ![Newark AirTrain map](img/NewarkAirTrain.png)
 
