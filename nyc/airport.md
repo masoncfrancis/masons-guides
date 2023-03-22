@@ -58,7 +58,10 @@ That's my opinion, anyway.
 
 To get from Newark (EWR) to Manhattan, you'll be taking a series of trains.
 
-The first one is the AirTrain.
+The first train is at the airport. It's called the AirTrain. The AirTrain goes between terminals at the airport
+and also connects you to the train to Manhattan. It's pretty simple. You just get on, and get off at the NJ Transit + Amtrak station shown on the map below. 
+
+![Newark AirTrain map](img/NewarkAirTrain.png)
 
 
 
