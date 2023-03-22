@@ -68,6 +68,6 @@ train to New York. From the AirTrain, you'll need to walk across the bridge and 
 
 ![Newark AirTrain map](img/NewarkAirTrain.png)
 
-
+###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
 
 ###### Train letter bullets courtesy of [The Metropolitan Transportation Authority of New York](https://new.mta.info)
