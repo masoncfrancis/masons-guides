@@ -50,7 +50,14 @@ stations. It doesn't matter which one you choose if you're going to the airport.
 ## LaGuardia (LGA)
 
 
+
 ## Newark (EWR)
+
+I gotta be honest, Newark is my least favorite of all the NYC airports. It's big. old, and getting to Manhattan can be confusing.
+That's my opinion. 
+
+To get from Newark (EWR) to Manhattan, you'll be taking a series of trains.
+
 
 
 ###### Train letter bullets courtesy of [The Metropolitan Transportation Authority of New York](https://new.mta.info)
