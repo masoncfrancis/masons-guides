@@ -76,7 +76,7 @@ Airport RailLink Station shown on the map below.
 ###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
 
 When you get to that station, you'll need to pay the fare. The fare is $8.25 and covers both the AirTrain trip that you just finished and the next train 
-you'll be getting on to go to Manhattan. This is where it gets confusing. Fun fact, Newark Airport is in New Jersey, so you'll need to take an NJ Transit 
+you'll be getting on to go to Manhattan. This is where it gets confusing, so pay attention. Fun fact, Newark Airport is in New Jersey, so you'll need to take an NJ Transit 
 train to New York. From the AirTrain, you'll need to walk across the bridge and down the stairs (or elevator) to the platform. There you'll need to 
 make sure to get on either the Northeast Corridor (red) or North Jersey (blue) Coast Line train heading towards New York Penn Station. You'll be getting
 off the train at New York Penn Station. On the way there you'll pass through **Newark** Penn Station. **Do not** get off at this station, you need to continue on to the **New York** Penn Station.
