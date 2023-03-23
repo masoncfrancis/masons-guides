@@ -65,7 +65,7 @@ That's my opinion, anyway.
 
 ### To Manhattan
 
-To get from Newark (EWR) to Manhattan, you'll be taking a series of trains. There are multiple ways to get to Manhattan but I'm going to tell you the most straightforward  way.
+To get from Newark airport to Manhattan, you'll be taking a series of trains. There are multiple ways to get to Manhattan but I'm going to tell you the most straightforward  way.
 
 The first train is at the airport. It's called the AirTrain. The AirTrain goes between terminals at the airport
 and also connects you to the train to Manhattan. It's pretty simple. You just get on at your terminal, and get off at the Newark Liberty International 
