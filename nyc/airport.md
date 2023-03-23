@@ -71,6 +71,10 @@ The first train is at the airport. It's called the AirTrain. The AirTrain goes b
 and also connects you to the train to Manhattan. It's pretty simple. You just get on at your terminal, and get off at the Newark Liberty International 
 Airport RailLink Station shown on the map below. 
 
+![Newark AirTrain map](img/NewarkAirTrain.png)
+
+###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
+
 When you get to that station, you'll need to pay the fare. The fare is $8.25 and covers both the AirTrain trip that you just finished and the next train 
 you'll be getting on to go to Manhattan. This is where it gets confusing. Fun fact, Newark Airport is in New Jersey, so you'll need to take an NJ Transit 
 train to New York. From the AirTrain, you'll need to walk across the bridge and down the stairs (or elevator) to the platform. There you'll need to 
@@ -79,10 +83,6 @@ off the train at New York Penn Station. On the way there you'll pass through **N
 
 Once you arrive at New York Penn Station, you'll be able to connect to the subway. I recommend using Google Maps
 to figure out how to get from there to your destination. 
-
-![Newark AirTrain map](img/NewarkAirTrain.png)
-
-###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
 
 ### To Newark
 
