@@ -86,4 +86,13 @@ to figure out how to get from there to your destination.
 
 ### To Newark
 
+To get to Newark from Manhattan, you'll need to get on a NJ Transit Northeast Corridor or North Jersey Coast Line train at 
+New York Penn Station. You can take the subway directly to this station. You need to make sure you buy a ticket 
+specifically for going to the airport. If you have trouble with the ticket machines, you can go up to a ticket 
+booth and ask for a ticket to the airport, and they'll help you out. 
+
+Make sure to get off the NJ Transit train at the Newark Liberty International Airport station. There you'll go upstairs
+and cross the bridge into the AirTrain Station. The AirTrain can take you to whatever terminal you need, so make 
+sure you know which terminal your flight is leaving from. 
+
 ###### Train letter bullets courtesy of [The Metropolitan Transportation Authority of New York](https://new.mta.info)
