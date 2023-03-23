@@ -19,6 +19,8 @@ There are three airports around New York City:
 
 ## John F Kennedy (JFK)
 
+### To Manhattan
+
 To get to Manhattan from JFK, you'll be taking a series of trains. 
 
 The first train is at the airport. It's called the AirTrain. The AirTrain goes between terminals at the airport
@@ -43,18 +45,25 @@ want to go. **Do not** get on a train for the Long Island Rail Road (LIRR). If y
 need to follow signs for the ![A train logo](img/a.png) train going towards Brooklyn and Manhattan, **not** towards the 
 Rockaways. 
 
+### To JFK
+
 To go back to JFK, you'll need to make sure to get back off the subway and onto the AirTrain at either Howard Beach or Jamaica 
 stations. It doesn't matter which one you choose if you're going to the airport.
 
 
 ## LaGuardia (LGA)
 
+### To Manhattan
+
+### To LaGuardia
 
 
 ## Newark (EWR)
 
 I gotta be honest, Newark is my least favorite of all the NYC airports. It's big, old, and getting to Manhattan can be confusing.
 That's my opinion, anyway. 
+
+### To Manhattan
 
 To get from Newark (EWR) to Manhattan, you'll be taking a series of trains. There are multiple ways to get to Manhattan but I'm going to tell you the easiest way.
 
@@ -69,5 +78,7 @@ train to New York. From the AirTrain, you'll need to walk across the bridge and 
 ![Newark AirTrain map](img/NewarkAirTrain.png)
 
 ###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
+
+### To Newark
 
 ###### Train letter bullets courtesy of [The Metropolitan Transportation Authority of New York](https://new.mta.info)
