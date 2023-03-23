@@ -77,6 +77,9 @@ train to New York. From the AirTrain, you'll need to walk across the bridge and 
 make sure to get on either the Northeast Corridor (red) or North Jersey (blue) Coast Line train heading towards New York Penn Station. You'll be getting
 off the train at New York Penn Station. On the way there you'll pass through **Newark** Penn Station. **Do not** get off at this station, you need to continue on to the **New York** Penn Station.
 
+Once you arrive at New York Penn Station, you'll be able to connect to the subway. I recommend using Google Maps
+to figure out how to get from there to your destination. 
+
 ![Newark AirTrain map](img/NewarkAirTrain.png)
 
 ###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
