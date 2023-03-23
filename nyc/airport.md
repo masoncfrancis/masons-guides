@@ -53,7 +53,7 @@ stations. It doesn't matter which one you choose if you're going to the airport.
 
 ## Newark (EWR)
 
-I gotta be honest, Newark is my least favorite of all the NYC airports. It's big. old, and getting to Manhattan can be confusing.
+I gotta be honest, Newark is my least favorite of all the NYC airports. It's big, old, and getting to Manhattan can be confusing.
 That's my opinion, anyway. 
 
 To get from Newark (EWR) to Manhattan, you'll be taking a series of trains. There are multiple ways to get to Manhattan but I'm going to tell you the easiest way.
