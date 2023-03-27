@@ -34,16 +34,6 @@ the subway map [here](https://new.mta.info/map/5256). The little letters and num
 
 placeholder stuff
 
-## Cars
-
-Don't rent one. Parking in NYC is awful and you're looking at upwards of $120 per day just for parking. Also, you don't want to deal with New York
-traffic or tolls. 
-
-## Taxis, and Ubers/Lyfts
-
-Don't use them unless you are stranded somewhere not near the subway or you feel like you are in danger, especially on a bus or subway. They cost 
-a lot more than you probably wanna pay, tbh. Plus if you're trying to use a taxi you have to try to flag one down, which kinda sucks. 
-
 ## Ferry
 
 You can use the NYC Ferry system to get to some places around New York. The ferry fare is $4 and can give you a good view of the NYC skyline. I definitely 
@@ -55,3 +45,12 @@ Personally, though, I wouldn't bother to visit Staten Island on your first trip 
 But now you know about it if you want. The Staten Island Ferry is a way to get a view of the Statue of Liberty, though. But if you do that make sure the
 weather is good. You probably also should know it's not an up close view, but it is a view, and it is free 🤷‍♂️.
 
+## Taxis, and Ubers/Lyfts
+
+Don't use them unless you are stranded somewhere not near the subway or you feel like you are in danger, especially on a bus or subway. They cost 
+a lot more than you probably wanna pay, tbh. Plus if you're trying to use a taxi you have to try to flag one down, which kinda sucks. 
+
+## Cars
+
+Don't rent one. Parking in NYC is awful and you're looking at upwards of $120 per day just for parking. Also, you don't want to deal with New York
+traffic or tolls. 
