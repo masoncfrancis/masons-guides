@@ -92,7 +92,7 @@ Just as a reminder:
 
 * The M60 serves all terminals
 * The Q70 only serves Terminals B and C
-* the Q47 only serves Terminal A
+* The Q47 only serves Terminal A
 
 ## Newark (EWR)
 
