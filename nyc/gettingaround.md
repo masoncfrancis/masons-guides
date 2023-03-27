@@ -4,7 +4,35 @@ Getting around in NYC is way different than getting around where you live. You d
 
 ## Good Stuff To Know
 
-placeholder content
+Before I tell you how to get around, there are a couple things you need to know about New York.
+
+New York is broken into 5 boroughs:
+
+* Manhattan (where all the skyscrapers are, where you'll spend most of your time)
+* The Bronx (cool, also known for being rough)
+* Queens (where LaGuardia and JFK are)
+* Brooklyn (south of Queens, has some interesting stuff)
+* Staten Island (mostly residential, boring, can only get to it by ferry)
+
+You'll probably spend most of your time in Manhattan. Going north in Manhattan is referred to as going "uptown". Going south in Manhattan
+is referred to as going "downtown". You need to know this so you can make sure to get on trains and buses going in the right direction. 
+
+## The Subway
+
+The main way to get around NYC is on the subway. In Manhattan, every subway station is underground. In Queens, Brooklyn, and the Bronx, some
+of them are above ground. 
+
+### What The Colored Numbers and Letters Mean
+
+The subway station is organized into colored lines, with specific train routes being designated by numbers or letters. There are reasons for that, 
+but it's kind of complicated. Ask me sometime if you want to know. Within a colored line, not all trains stop at all stations. For example, in 
+Manhattan the A train is considered an 'express' train and doesn't stop at all stops but runs along mostly the same route as the C and E trains
+(with exceptions). I recommend using Google Maps to help you figure out which train to take so you can get off where you need to. You can also find
+the subway map [here](https://new.mta.info/map/5256). The little letters and numbers next to each stop show which trains stop there. 
+
+### How To Pay Your Fare
+
+placeholder stuff
 
 ## Cars
 
