@@ -45,7 +45,7 @@ Personally, though, I wouldn't bother to visit Staten Island on your first trip 
 But now you know about it if you want. The Staten Island Ferry is a way to get a view of the Statue of Liberty, though. But if you do that make sure the
 weather is good. You probably also should know it's not an up close view, but it is a view, and it is free 🤷‍♂️.
 
-## Taxi, and Uber/Lyft
+## Taxi, Uber/Lyft
 
 Don't use them unless you are stranded somewhere not near the subway or you feel like you are in danger, especially on a bus or subway. They cost 
 a lot more than you probably wanna pay, tbh. Plus if you're trying to use a taxi you have to try to flag one down, which kinda sucks. 
