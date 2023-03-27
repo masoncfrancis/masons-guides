@@ -55,6 +55,24 @@ stations. It doesn't matter which one you choose if you're going to the airport.
 
 ### To Manhattan
 
+I'll admit, getting to Manhanttan from LaGuardia can get complicated. It's not because there aren't options, it's just that there are so many of them. 
+Unfortunately there's no train straight from LaGuardia, so you'll need to take a bus to get to one. Which bus you can take depends on where you want
+to go and what terminal you're in. 
+
+There are 2 main buses you should know about: the Q70 or Q47, and the M60. 
+
+If you've never ridden a public city bus before or want a refresher on how it works, read through my [Getting Around](gettingaround.md) page. 
+
+#### Q70, Q47
+
+The Q70 and Q47 will take you to the Jackson Hts - Roosevelt Ave subway station in Queens. There, you can transfer to 
+the ![7 train](img/7.png) ![E train](img/e.png) ![F train](img/f.png) ![M train](img/m.png) ![R train](img/r.png) trains, which will all take 
+you to Manhattan. 
+
+**There are some key differences between the Q70 and Q47 that you need to know about.** The Q70 is free and will take you non-stop to the Jackson 
+Hts - Roosevelt Ave subway station. However, the Q70 **only serves Terminals B and C**. The Q47 **only serves Terminal A** and is not free and costs a 
+normal bus fare of $2.75. For more on that, read my [Getting Around](gettingaround.md) section. 
+
 ### To LaGuardia
 
 
