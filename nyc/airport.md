@@ -80,10 +80,19 @@ The M60 can take you to a number of stations. The first station you'd be able to
 ![N train](img/n.png) ![W train](img/w.png) trains. To get to the subway station from the bus stop you'll need to cross under the freeway. Make sure 
 you take the train towards Manhattan. You'll need to be on the right platform to get on the train. There should be signs pointing you the right 
 way to go. The second station it can take you to is the 125th St station where you can transfer to the 2, 3, 4, 5, 6, A, B, C, D trains. You can 
-also take it to the 116th St station to transfer to the 1 train. 
+also take it to the 116th St station to transfer to the 1 train. Also, the M60 isn't free so you'll need to pay the $2.75 fare. You can learn how 
+to do that on my [Getting Around](gettingaround.md) page. 
 
 ### To LaGuardia
 
+You can get on any of the buses mentioned in the previous paragraph to get to LaGuardia. Make sure you get on a bus serving the terminal you need
+to get to.
+
+Just as a reminder:
+
+* The M60 serves all terminals
+* The Q70 only serves Terminals B and C
+* the Q47 only serves Terminal A
 
 ## Newark (EWR)
 
