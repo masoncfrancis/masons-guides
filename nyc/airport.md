@@ -77,9 +77,10 @@ normal bus fare of $2.75. For more on that, read my [Getting Around](gettingarou
 #### M60
 
 The M60 can take you to a number of stations. The first station you'd be able to get to is the Astoria Blvd station where you can transfer to the 
-![N train](img/n.png) ![W train](img/w.png) trains. Make sure you take the train towards Manhattan. You'll need to be on the right platform to get 
-on the train. There should be signs pointing you the right way to go. The second station it can take you to is the 125th St station where you can 
-transfer to the 2, 3, 4, 5, 6, A, B, C, D trains. You can also take it to the 116th St station to transfer to the 1 train. 
+![N train](img/n.png) ![W train](img/w.png) trains. To get to the subway station from the bus stop you'll need to cross under the freeway. Make sure 
+you take the train towards Manhattan. You'll need to be on the right platform to get on the train. There should be signs pointing you the right 
+way to go. The second station it can take you to is the 125th St station where you can transfer to the 2, 3, 4, 5, 6, A, B, C, D trains. You can 
+also take it to the 116th St station to transfer to the 1 train. 
 
 ### To LaGuardia
 
