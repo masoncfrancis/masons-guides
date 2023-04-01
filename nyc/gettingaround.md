@@ -41,7 +41,7 @@ Sometimes you might need to transfer between trains to get where you're going. S
 
 ### How To Pay Your Fare
 
-Subway fare costs $2.75. If you transfer between trains in a station you won't have to pay an extra time. 
+Subway fare costs $2.75. If you transfer between trains in a station or to a bus you won't have to pay an extra time. 
 
 There are two ways to pay your fare: OMNY and MetroCard.
 
