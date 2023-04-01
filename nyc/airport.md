@@ -79,8 +79,8 @@ The M60 can take you to a number of stations. The first station you'd be able to
 ![N train](img/n.png) ![W train](img/w.png) trains. To get to the subway station from the bus stop you'll need to cross under the freeway. Make sure 
 you take the train towards Manhattan. You'll need to be on the right platform to get on the train. There should be signs pointing you the right 
 way to go. The second station it can take you to is the **125th St station** where you can transfer to the ![2 train](img/2.png), ![3 train](img/3.png), ![4 train](img/4.png), ![5 train](img/5.png), ![6 train](img/6.png), ![A train](img/a.png), ![B train](img/b.png), ![C train](img/c.png), ![D train](img/d.png) trains. You can 
-also take it to the **116th St station** to transfer to the 1 train. Also, the M60 isn't free so you'll need to pay the $2.75 fare. You can learn how 
-to do that on my [How To Get Around](gettingaround.md) page. 
+also take it to the **116th St station** to transfer to the ![1 train](img/1.png) train. Also, the M60 isn't free so you'll need to pay the $2.75 fare. 
+You can learn how to do that on my [How To Get Around](gettingaround.md) page. 
 
 ### To LaGuardia
 
