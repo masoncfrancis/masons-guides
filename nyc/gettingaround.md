@@ -32,7 +32,16 @@ the subway map [here](https://new.mta.info/map/5256). The little letters and num
 
 ### How To Pay Your Fare
 
-placeholder stuff
+There are two ways to pay your fare: OMNY and MetroCard
+
+#### OMNY
+
+OMNY is the easiest way to pay your fare on the subway. If you have a credit/debit card with the ![contactless payment symbol](img/contactlesssymbol.jpg) 
+symbol on it, you can use your card to pay. You can also use Apple Pay and Google Pay. 
+
+To pay 
+
+###### Contactless payment symbol courtesy of [VISA](https://usa.visa.com/pay-with-visa/contactless-payments/contactless-payments.html)
 
 ## Ferry
 
