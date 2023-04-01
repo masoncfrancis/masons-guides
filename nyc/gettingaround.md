@@ -81,7 +81,7 @@ sure you don't try to use your card on more than one person at once.
 If you aren't in NYC for very long and/or won't be using the subway much, you can pre-pay a MetroCard. With the prepaid cards you can swipe more than once 
 for multiple people if you want, unlike the unlimited MetroCards.
 
-To use your MetroCard, swipe it with the black stripe facing you on the turnstile. If it asks you to swipe again, make sure to do it. Pay attention to whether 
+To use your MetroCard, swipe it on the turnstile with the black stripe facing you. If it asks you to swipe again, make sure to do it. Pay attention to whether 
 it asks you to swipe at the same turnstile or a different one. 
 
 **Important:** As soon as the screen says '**GO**' you **need** to move through the turnstile quickly. If you don't go quickly enough, the turnstile will 
