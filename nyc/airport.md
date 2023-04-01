@@ -61,8 +61,6 @@ to go and what terminal you're in.
 
 There are 2 main buses you should know about: the Q70 or Q47, and the M60. 
 
-If you've never ridden a public city bus before or want a refresher on how it works, read through my [Getting Around](gettingaround.md) page. 
-
 #### Q70, Q47
 
 The Q70 and Q47 will take you to the Jackson Hts - Roosevelt Ave subway station in Queens. There, you can transfer to 

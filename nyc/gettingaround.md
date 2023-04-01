@@ -17,22 +17,33 @@ New York is broken into 5 boroughs:
 You'll probably spend most of your time in Manhattan. Going north in Manhattan is referred to as going "uptown". Going south in Manhattan
 is referred to as going "downtown". You need to know this so you can make sure to get on trains and buses going in the right direction. 
 
+I'm going to tell you about the subway because it's the main way to get around in New York. There are buses too if you're feeling that, and you pay for them
+in a similar way as you do the subway, except there's no turnstiles.
+
 ## The Subway
 
 The main way to get around NYC is on the subway. In Manhattan, every subway station is underground. In Queens, Brooklyn, and the Bronx, some
 of them are above ground. 
 
+Subway station entrances are usually located at corners of intersections. Sometimes they'll be a set of stairs with a green railing, and sometimes
+they'll be part of a building. You might have to look around a little to find the entrance. 
+
 ### What The Colored Numbers and Letters Mean
 
-The subway station is organized into colored lines, with specific train routes being designated by numbers or letters. There are reasons for that, 
+The subway system is organized into colored lines, with specific train routes being designated by numbers or letters. There are reasons for that, 
 but it's kind of complicated. Ask me sometime if you want to know. Within a colored line, not all trains stop at all stations. For example, in 
-Manhattan the A train is considered an 'express' train and doesn't stop at all stops but runs along mostly the same route as the C and E trains
-(with exceptions). I recommend using Google Maps to help you figure out which train to take so you can get off where you need to. You can also find
-the subway map [here](https://new.mta.info/map/5256). The little letters and numbers next to each stop show which trains stop there. 
+Manhattan the ![A train logo](img/a.png) train is considered an 'express' train and doesn't stop at all stops but runs along mostly the same route as the 
+![C train](img/c.png) and ![E train](img/e.png) trains (with exceptions). I recommend using Google Maps to help you figure out which train to take so you 
+can get off where you need to. You can also find the subway map [here](https://new.mta.info/map/5256). The little letters and numbers next to each stop show 
+which trains stop there. 
+
+Sometimes you might need to transfer between trains to get where you're going. Subway stations will have signs pointing you in the right way to go. 
 
 ### How To Pay Your Fare
 
-There are two ways to pay your fare: OMNY and MetroCard
+Subway fare costs $2.75. If you transfer between trains in a station you will only have to pay once. 
+
+There are two ways to pay your fare: OMNY and MetroCard.
 
 #### OMNY
 
@@ -47,11 +58,36 @@ Just tap your card or device on that reader. Enter the station through the turns
 
 ![OMNY go screen](img/OMNYgo.png)
 
-It's important that you go quickly through the turnstile once it says go. The turnstiles lock again pretty fast, so if you miss it you'll have to pay again. 
+**Important:** You **need** to make sure go quickly through the turnstile once it says '**GO**'. The turnstiles lock again pretty fast after you pay, 
+so if you miss it you'll have to pay again. 
 
 ###### Contactless payment symbol courtesy of [VISA](https://usa.visa.com/pay-with-visa/contactless-payments/contactless-payments.html)
 
 ###### OMNY reader screen images courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
+
+
+#### MetroCard
+
+MetroCard is the traditional way to pay your subway fare. MetroCards look like this:
+
+![MetroCard picture](img/MetroCard.svg)
+
+You have to buy a MetroCard at a MetroCard vending machine. You'll have to pay a $1 fee to get a new card, and there are multiple card types. 
+
+Depending on how long you are in New York and how much you plan on using the subway, I recommend getting a 7 day unlimited MetroCard. One thing you should know 
+about those is that you can only swipe an unlimited MetroCard once roughly every 20 minutes (unless you're transferring between bus/subway). They do that to make 
+sure you don't try to use your card on more than one person at once. 
+
+If you aren't in NYC for very long and/or won't be using the subway much, you can pre-pay a MetroCard. You can swipe more than once for multiple people if you want
+for the prepaid cards. 
+
+To use your MetroCard, swipe it with the black stripe facing you on the turnstile. If it asks you to swipe again, make sure to do it. Pay attention to whether 
+it asks you to swipe at the same turnstile or a different one. 
+
+**Important:** As soon as the screen says '**GO**' you **need** to move through the turnstile quickly. If you don't go quickly enough, the turnstile will 
+lock and you'll have to pay again. 
+
+###### MetroCard courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
 
 
 ## Ferry
