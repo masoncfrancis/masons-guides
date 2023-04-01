@@ -50,7 +50,7 @@ There are two ways to pay your fare: OMNY and MetroCard.
 OMNY is the easiest way to pay your fare on the subway. If you have a credit/debit card with the ![contactless payment symbol](img/contactlesssymbol.jpg) 
 symbol on it, you can use your card to pay. You can also use Apple Pay and Google Pay. 
 
-With OMNY, you pay at the turnstile. Every turnstile will have a reader that looks like this:
+With OMNY, you don't have to use the ticket vending machines. Every turnstile will have a reader that looks like this:
 
 ![OMNY reader](img/OMNYreader.png)
 
