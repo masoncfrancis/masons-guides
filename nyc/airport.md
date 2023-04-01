@@ -13,9 +13,9 @@ how to get around once you're in Manhattan, read my [How To Get Around](gettinga
 
 There are three airports around New York City:
 
-* John F Kennedy (JFK)
-* LaGuardia (LGA)
-* Newark (EWR)
+* [John F Kennedy (JFK)](https://www.jfkairport.com/)
+* [LaGuardia (LGA)](https://www.laguardiaairport.com/)
+* [Newark (EWR)](https://www.newarkairport.com/)
 
 ## John F Kennedy (JFK)
 
