@@ -78,8 +78,8 @@ Depending on how long you are in New York and how much you plan on using the sub
 about those is that you can only swipe an unlimited MetroCard once roughly every 20 minutes (unless you're transferring between bus/subway). They do that to make 
 sure you don't try to use your card on more than one person at once. 
 
-If you aren't in NYC for very long and/or won't be using the subway much, you can pre-pay a MetroCard. You can swipe more than once for multiple people if you want
-for the prepaid cards. 
+If you aren't in NYC for very long and/or won't be using the subway much, you can pre-pay a MetroCard. With the prepaid cards you can swipe more than once 
+for multiple people if you want, unlike the unlimited MetroCards.
 
 To use your MetroCard, swipe it with the black stripe facing you on the turnstile. If it asks you to swipe again, make sure to do it. Pay attention to whether 
 it asks you to swipe at the same turnstile or a different one. 
