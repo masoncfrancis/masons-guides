@@ -59,7 +59,7 @@ I'll admit, getting to Manhanttan from LaGuardia can get complicated. It's not b
 Unfortunately there's no train straight from LaGuardia, so you'll need to take a bus to get to one. Which bus you can take depends on where you want
 to go and what terminal you're in. 
 
-There are 2 main buses you should know about: the Q70 or Q47, and the M60. 
+There are 3 main buses you should know about: the Q70 or Q47, and the M60. 
 
 #### Q70, Q47
 
