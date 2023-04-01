@@ -1,4 +1,4 @@
-# Getting Around
+# How To Get Around
 
 Getting around in NYC is way different than getting around where you live. You don't need a car, and it's actually a hassle to have one.
 

@@ -9,7 +9,7 @@ of 50 bucks.
 
 I personally recommend using Google Maps to help you get to your specific destination, and to figure out which specific train/bus 
 to take because you might have a few options. These are just general directions for how to get to Manhattan. For information on 
-how to get around once you're in Manhattan, read my [Getting Around](gettingaround.md) page. 
+how to get around once you're in Manhattan, read my [How To Get Around](gettingaround.md) page. 
 
 There are three airports around New York City:
 
@@ -34,9 +34,9 @@ the Howard Beach one. If you're staying in Manhattan, it doesn't matter because 
 ###### Image courtesy of [The Port Authority of New York and New Jersey](https://www.panynj.gov/)
 
 Once you get to the Jamaica or Howard Beach station, you'll need to pay fares as you exit the AirTrain station and enter 
-the subway station. The AirTrain fare is $8.25, and you have to pay for it using a MetroCard (see [Getting Around](gettingaround.md)).
+the subway station. The AirTrain fare is $8.25, and you have to pay for it using a MetroCard (see [How To Get Around](gettingaround.md)).
 Subway fare is $2.75, and you can pay that with a MetroCard or by tapping your card/phone on the OMNY reader (see
-[Getting Around](gettingaround.md) for more info).
+[How To Get Around](gettingaround.md) for more info).
 
 You need to make sure you're getting on the subway train headed in the right direction. If you're at the Jamaica station, 
 make sure to follow signs for the ![E train logo](img/e.png), ![J train logo](img/j.png), or ![Z train logo](img/z.png)
@@ -70,7 +70,7 @@ be signs pointing you the right way to go.
 
 **There are some key differences between the Q70 and Q47 that you need to know about.** The Q70 is free and will take you non-stop to the Jackson 
 Hts - Roosevelt Ave subway station. However, the Q70 **only serves Terminals B and C**. The Q47 **only serves Terminal A** and is not free and costs a 
-normal bus fare of $2.75. For more on that, read my [Getting Around](gettingaround.md) section. 
+normal bus fare of $2.75. For more on that, read my [How To Get Around](gettingaround.md) section. 
 
 #### M60
 
@@ -79,7 +79,7 @@ The M60 can take you to a number of stations. The first station you'd be able to
 you take the train towards Manhattan. You'll need to be on the right platform to get on the train. There should be signs pointing you the right 
 way to go. The second station it can take you to is the 125th St station where you can transfer to the ![2 train](img/2.png), ![3 train](img/3.png), ![4 train](img/4.png), ![5 train](img/5.png), ![6 train](img/6.png), ![A train](img/a.png), ![B train](img/b.png), ![C train](img/c.png), ![D train](img/d.png) trains. You can 
 also take it to the 116th St station to transfer to the 1 train. Also, the M60 isn't free so you'll need to pay the $2.75 fare. You can learn how 
-to do that on my [Getting Around](gettingaround.md) page. 
+to do that on my [How To Get Around](gettingaround.md) page. 
 
 ### To LaGuardia
 

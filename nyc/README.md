@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Getting To/From The Airport](airport.md)
-* [Getting Around](gettingaround.md)
+* [How To Get Around](gettingaround.md)
 * [Broadway](broadway.md)
 * [Other Stuff To Do](stufftodo.md)
 
