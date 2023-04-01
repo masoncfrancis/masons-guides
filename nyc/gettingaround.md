@@ -17,9 +17,6 @@ New York is broken into 5 boroughs:
 You'll probably spend most of your time in Manhattan. Going north in Manhattan is referred to as going "uptown". Going south in Manhattan
 is referred to as going "downtown". You need to know this so you can make sure to get on trains and buses going in the right direction. 
 
-I'm going to tell you about the subway because it's the main way to get around in New York. There are buses too if you're feeling that, and you pay for them
-in a similar way as you do the subway, except there's no turnstiles.
-
 ## The Subway
 
 The main way to get around NYC is on the subway. In Manhattan, every subway station is underground. In Queens, Brooklyn, and the Bronx, some
@@ -89,6 +86,9 @@ lock and you'll have to pay again.
 
 ###### MetroCard courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
 
+## Bus
+
+placeholder text
 
 ## Ferry
 
