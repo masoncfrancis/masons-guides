@@ -82,7 +82,7 @@ If you aren't in NYC for very long and/or won't be using the subway much, you ca
 for multiple people if you want, unlike the unlimited MetroCards.
 
 To use your MetroCard, swipe it on the turnstile with the black stripe facing you. If it asks you to swipe again, make sure to do it. Pay attention to whether 
-it asks you to swipe at the same turnstile or a different one. 
+it asks you to swipe again at the same turnstile or a different one. 
 
 **Important:** As soon as the screen says '**GO**' you **need** to move through the turnstile quickly. If you don't go quickly enough, the turnstile will 
 lock and you'll have to pay again. 
