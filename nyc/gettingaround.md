@@ -88,7 +88,21 @@ lock and you'll have to pay again.
 
 ## Bus
 
-Buses run on most major streets in New York City. You can find their bus maps [here](https://new.mta.info/maps#new-york-city-bus-maps). 
+Buses run on most major streets in New York City. You can find the bus maps [here](https://new.mta.info/maps#new-york-city-bus-maps). Buses marked as Select Bus Service (SBS) means it's an express bus and only makes limited stops. 
+
+Your fare costs the same as for the subway. If you are transferring from the subway your fare is free, but you'll 
+still need to swipe or tap. You pay for it the same way, using OMNY or your MetroCard. For MetroCard, you'll 
+need to put your card into the slot on the farebox instead of swiping it. For OMNY, you'll tap your card or 
+device on a reader that looks the same as it does in the subway. 
+
+### Things To Know If You've Never Ridden A Public City Bus
+
+If you've never ridden a public city bus before (even in places that aren't NYC), here are a few things you'll need 
+to know. 
+
+The bus does not stop at every stop like a train does. If you want it to stop, you'll need to pull the yellow cord
+running along the sides of the bus by the windows. There may also be 'stop' buttons on the poles you can hold on to.
+
 
 ## Ferry
 
