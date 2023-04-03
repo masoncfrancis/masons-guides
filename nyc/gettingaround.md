@@ -88,7 +88,7 @@ lock and you'll have to pay again.
 
 ## Bus
 
-placeholder text
+Buses run on most major streets in New York City. You can find their bus maps [here](https://new.mta.info/maps#new-york-city-bus-maps). 
 
 ## Ferry
 
