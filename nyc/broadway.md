@@ -4,7 +4,7 @@ This page will (hopefully) help you get broadway tickets for cheaper than full p
 
 I'm going to talk about these 3 ways to get cheaper broadway tickets: rush, lottery, and TKTS.
 
-Pretty much all of these are for same day tickets, so you just need to plan out what shows you want to get cheap tickets for and then be ready to get over there that morning. Not every show does Rush and Lottery both, and some dont do anything at all for cheap tickets.
+Pretty much all of these are for same day tickets, so you just need to plan out what shows you want to get cheap tickets for. Not every show does rush and lottery both, and some dont do anything at all for cheap tickets.
 
 ## Rush
 
