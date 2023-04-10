@@ -45,7 +45,11 @@ There are two ways to pay your fare: OMNY and MetroCard.
 #### OMNY
 
 OMNY is the easiest way to pay your fare on the subway. If you have a credit/debit card with the ![contactless payment symbol](img/contactlesssymbol.jpg) 
-symbol on it, you can use your card to pay. You can also use Apple Pay and Google Pay. 
+symbol on it, you can use your card to pay. You can also use Apple Pay and Google Pay.
+
+One cool thing that OMNY does is it will stop charging you and you can ride for free once you ride 12 times,
+(spending $33). To do this, you **have* to make sure to use the same card or device every time you tap. It won't
+work if you're using multiple cards or devices. 
 
 With OMNY, you don't have to use the ticket vending machines. Every turnstile will have a reader that looks like this:
 
@@ -69,10 +73,10 @@ MetroCard is the traditional way to pay your subway fare. MetroCards look like t
 
 ![MetroCard picture](img/MetroCard.svg)
 
-You have to buy a MetroCard at a MetroCard vending machine. You'll have to pay a $1 fee to get a new card, and there are multiple card types. 
-
-Depending on how long you are in New York and how much you plan on using the subway, I recommend getting a 7 day unlimited MetroCard. One thing you should know 
-about those is that you can only swipe an unlimited MetroCard once roughly every 20 minutes (unless you're transferring between bus/subway). They do that to make 
+You have to buy a MetroCard at a MetroCard vending machine. You'll have to pay a $1 fee to get a new card, and there 
+are multiple card types. You can put as much money as you want on a card. If you plan on putting more than $33 on there,
+just go ahead and buy a week unlimited card. One thing you should know about the unlimited MetroCards is that you can only swipe 
+an unlimited card once roughly every 20 minutes (unless you're transferring between bus/subway). They do that to make 
 sure you don't try to use your card on more than one person at once. 
 
 If you aren't in NYC for very long and/or won't be using the subway much, you can pre-pay a MetroCard. With the prepaid cards you can swipe more than once 
