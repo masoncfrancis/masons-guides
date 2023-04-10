@@ -36,4 +36,6 @@ to claim the tickets you won. So again, you gotta stay on top of it if you are t
 
 ### TKTS
 
-TKTS is a booth in Times Square under the stairs and in Lincoln Center. You can buy same day tickets there for cheap, but its usually not as good of a deal as Rush and Lottery.
+TKTS is a booth in Times Square under the big stairs and in Lincoln Center. You can buy same day tickets there 
+for cheap, but its usually not as good of a deal as Rush and Lottery. But it's still probably going to be 
+cheaper than buying from the show's website. 
