@@ -23,9 +23,16 @@ Rush tickets are when you show up to the ticket office the day of the show you w
 they have for open seats that day. It's usually best to go in the morning, and you can buy tickets for 
 pretty good discounts. This is the best way in my opinion. I got 3rd row seats to a show once for 40 bucks doing this.
 
+Sometimes shows will do this digitally. I once bought same day discount tickets for Mrs. Doubtfire online
+using the TodayTix app. 
+
 ### Lottery
 
-Lottery is where you submit your name into an online lottery and then they shoot you an email if you won tickets for the day. Sometimes these can be super cheap. For example, as of this writing Hamilton does a daily lottery for 10 dollar tickets.
+Lottery is where you submit your name into an online lottery and then they shoot you an email if you won tickets 
+for that day. Sometimes these can be super cheap. For example, as of this writing Hamilton does a daily lottery 
+for 10 dollar tickets. You'll find the lottery for these on the show's website. There's usually a small lottery
+entry window, so you have to be quick about it. Also, if you end up winning, you usually have a small time window
+to claim the tickets you won. So again, you gotta stay on top of it if you are trying to get tickets this way. 
 
 ### TKTS
 
