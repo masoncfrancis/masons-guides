@@ -2,6 +2,8 @@
 
 This page will (hopefully) help you get broadway tickets for cheaper than full price. 
 
+You can find a weekly schedule of shows going on at [playbill.com](https://playbill.com/article/weekly-schedule-of-current-broadway-shows)
+
 You can go ahead and look for deals online, but make sure to buy tickets directly from the production's website,
 or from a reputable vendor like TodayTix. 
 
@@ -39,3 +41,12 @@ to claim the tickets you won. So again, you gotta stay on top of it if you are t
 TKTS is a booth in Times Square under the big stairs and in Lincoln Center. You can buy same day tickets there 
 for cheap, but its usually not as good of a deal as Rush and Lottery. But it's still probably going to be 
 cheaper than buying from the show's website. 
+
+## How Do I Know Which Show Does What?
+
+You can usually find out if a show is doing discounts by visiting the show's website. 
+
+It's kind of a hassle to visit all of the show websites, so I personally like to go to
+[broadwayforbrokepeople.com](https://www.broadwayforbrokepeople.com/) to see what shows have discounts. Unfortunately
+I'm not sure how often it's kept up to date, so it's a good idea to double check to make sure the show
+is still happening and still doing those discounts. 
