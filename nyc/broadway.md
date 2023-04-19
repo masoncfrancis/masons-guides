@@ -47,6 +47,6 @@ cheaper than buying from the show's website.
 You can usually find out if a show is doing discounts by visiting the show's website. 
 
 It's kind of a hassle to visit all of the show websites, so I personally like to go to
-[broadwayforbrokepeople.com](https://www.broadwayforbrokepeople.com/) to see what shows have discounts. Unfortunately
+[broadwayforbrokepeople.com](https://www.broadwayforbrokepeople.com/) to see what shows have discounts.
 I'm not sure how often it's kept up to date, so it's a good idea to double check to make sure the show
 is still happening and still doing those discounts. 
