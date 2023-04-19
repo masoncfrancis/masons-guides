@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+* [Arriving by Train](arrivalbytrain.md)
 * [Getting To/From The Airport](airport.md)
 * [How To Get Around](gettingaround.md)
 * [Broadway](broadway.md)
