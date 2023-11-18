@@ -111,8 +111,9 @@ If you've never ridden a public city bus before (even in places that aren't NYC)
 to know. 
 
 The bus does not stop at every stop like a train does. If you want it to stop, you'll need to pull the yellow cord
-running along the sides of the bus by the windows. Pull it when your stop is next. There may also be 'stop' buttons on the poles inside the bus, and those
-do the same thing.
+running along the sides of the bus by the windows. Pull it when your stop is next. I personally like using Google Maps to keep an eye on how close I am to my
+stop so I know when to pull it. There may also be 'stop' buttons on the poles inside the bus, and those do the same thing. Make sure to pull the cord before you
+get to your stop, not when you're right at it. If you pull it right as you are passing the stop, your driver probably won't stop until the next one. 
 
 
 ## Ferry
