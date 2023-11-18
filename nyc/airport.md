@@ -85,7 +85,7 @@ the $2.75 fare. You can learn how to do that on my [How To Get Around](gettingar
 
 ### To LaGuardia
 
-You can get on any of the buses at the stations mentioned in the previous paragraph to get to LaGuardia. Make sure you get on a bus serving the 
+You can get on any of the buses mentioned in the previous paragraph to get to LaGuardia. Make sure you get on a bus serving the 
 terminal you need to get to.
 
 Just as a reminder:
