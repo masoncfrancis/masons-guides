@@ -35,7 +35,7 @@ the Howard Beach one. If you're staying in Manhattan, it doesn't matter because 
 
 Once you get to the Jamaica or Howard Beach station, you'll need to pay fares as you exit the AirTrain station and enter 
 the subway station. The AirTrain fare is $8.25, and you have to pay for it using a MetroCard (see [How To Get Around](gettingaround.md)).
-Subway fare is $2.75, and you can pay that with a MetroCard or by tapping your card/phone on the OMNY reader (see
+Subway fare is $2.90, and you can pay that with a MetroCard or by tapping your card/phone on the OMNY reader (see
 [How To Get Around](gettingaround.md) for more info).
 
 You need to make sure you're getting on the subway train headed in the right direction. If you're at the **Jamaica station**, 
@@ -70,7 +70,7 @@ be signs pointing you the right way to go.
 
 **There are some key differences between the Q70 and Q47 that you need to know about.** The Q70 is free and will take you non-stop to the 
 **Jackson Hts - Roosevelt Ave subway station**. However, the Q70 **only serves Terminals B and C**. The Q47 **only serves Terminal A** and 
-is not free, costing a normal bus fare of $2.75. But it also goes to the **Jackson Hts - Roosevelt Ave subway station**. For more on how to 
+is not free, costing a normal bus fare of $2.90. But it also goes to the **Jackson Hts - Roosevelt Ave subway station**. For more on how to 
 pay your fare, read my [How To Get Around](gettingaround.md) section. 
 
 #### M60
@@ -81,7 +81,7 @@ you take the train towards Manhattan. You'll need to be on the right platform to
 way to go. The second station it can take you to is the **125th St station** where you can transfer to the ![2 train](img/2.png) ![3 train](img/3.png)
 ![4 train](img/4.png) ![5 train](img/5.png) ![6 train](img/6.png) ![A train](img/a.png) ![B train](img/b.png) ![C train](img/c.png) ![D train](img/d.png)
 trains. You can also take it to the **116th St station** to transfer to the ![1 train](img/1.png) train. Also, the M60 isn't free so you'll need to pay 
-the $2.75 fare. You can learn how to do that on my [How To Get Around](gettingaround.md) page. 
+the $2.90 fare. You can learn how to do that on my [How To Get Around](gettingaround.md) page. 
 
 ### To LaGuardia
 
