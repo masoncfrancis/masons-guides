@@ -100,7 +100,7 @@ another MetroCard with at least $2.90 on it at a vending machine in the station.
 
 Buses run on most major streets in New York City. You can find the bus maps [here](https://new.mta.info/maps#new-york-city-bus-maps). Buses marked as Select Bus Service (SBS) means it's an express bus and only makes limited stops. 
 
-Your fare costs the same as for the subway. If you are transferring from the subway your fare is free, but you'll 
+Your fare costs the same as for the subway, $2.90. If you are transferring from the subway your fare is free, but you'll 
 still need to swipe or tap. You pay for it the same way, using OMNY or your MetroCard. For MetroCard, you'll 
 need to put your card into the slot on the farebox instead of swiping it. For OMNY, you'll tap your card or 
 device on a reader that looks the same as it does in the subway. 
