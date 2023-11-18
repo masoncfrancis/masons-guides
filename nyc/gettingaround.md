@@ -58,7 +58,7 @@ With OMNY, you don't have to use the ticket vending machines. Every turnstile wi
 
 ![OMNY reader](img/OMNYreader.png)
 
-Just tap your card or device on that reader. Enter the station through the turnstile as quickly as you can once the screen says 'GO', like this:
+Just tap your card or device on that reader. Go through the turnstile as quickly as you can once the screen says 'GO', like this:
 
 ![OMNY go screen](img/OMNYgo.png)
 
