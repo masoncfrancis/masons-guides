@@ -38,9 +38,11 @@ Sometimes you might need to transfer between trains to get where you're going. S
 
 ### How To Pay Your Fare
 
-Subway fare costs $2.75. If you transfer between trains in a station or to a bus you won't have to pay an extra time. 
+Subway fare costs $2.90. If you transfer between trains in a station or to a bus you won't have to pay an extra time. 
 
 There are two ways to pay your fare: OMNY and MetroCard.
+
+**Note: MetroCard will be phased out by 2024**
 
 #### OMNY
 
@@ -48,7 +50,7 @@ OMNY is the easiest way to pay your fare on the subway. If you have a credit/deb
 symbol on it, you can use your card to pay. You can also use Apple Pay and Google Pay.
 
 One cool thing that OMNY does is it will stop charging you and you can ride for free once you ride 12 times,
-(spending $33). To do this, you **have* to make sure to use the same card or device every time you tap. It won't
+(spending $34). To do this, you **have* to make sure to use the same card or device every time you tap. It won't
 work if you're using multiple cards or devices. 
 
 With OMNY, you don't have to use the ticket vending machines. Every turnstile will have a reader that looks like this:
@@ -69,12 +71,14 @@ so if you miss it you'll have to pay again.
 
 #### MetroCard
 
+**Note: MetroCard will be phased out by 2024**
+
 MetroCard is the traditional way to pay your subway fare. MetroCards look like this:
 
 ![MetroCard picture](img/MetroCard.svg)
 
 You have to buy a MetroCard at a MetroCard vending machine. You'll have to pay a $1 fee to get a new card, and there 
-are multiple card types. You can put as much money as you want on a card. If you plan on putting more than $33 on there,
+are multiple card types. You can put as much money as you want on a card. If you plan on putting more than $34 on there,
 just go ahead and buy a week unlimited card. One thing you should know about the unlimited MetroCards is that you can only swipe 
 an unlimited card once roughly every 20 minutes (unless you're transferring between bus/subway). They do that to make 
 sure you don't try to use your card on more than one person at once. 
@@ -105,7 +109,8 @@ If you've never ridden a public city bus before (even in places that aren't NYC)
 to know. 
 
 The bus does not stop at every stop like a train does. If you want it to stop, you'll need to pull the yellow cord
-running along the sides of the bus by the windows. There may also be 'stop' buttons on the poles you can hold on to.
+running along the sides of the bus by the windows. Pull it when your stop is next. There may also be 'stop' buttons on the poles inside the bus, and those
+do the same thing.
 
 
 ## Ferry
