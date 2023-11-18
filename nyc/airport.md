@@ -69,7 +69,7 @@ you to Manhattan. Make sure you take the train towards Manhattan. You'll need to
 be signs pointing you the right way to go. 
 
 **There are some key differences between the Q70 and Q47 that you need to know about.** The Q70 is free and will take you non-stop to the 
-**Jackson Hts - Roosevelt Ave subway station**. However, the Q70 **only serves Terminals B and C**. The Q47 **only serves Terminal A** and 
+**Jackson Hts - Roosevelt Ave subway station**. However, the Q70 **only serves Terminals B and C**. The Q47 **only serves Terminal A**, 
 is not free and costs a normal bus fare of $2.75. But it also goes to the **Jackson Hts - Roosevelt Ave subway station**. For more on how to 
 pay your fare, read my [How To Get Around](gettingaround.md) section. 
 
