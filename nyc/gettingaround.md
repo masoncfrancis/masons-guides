@@ -128,7 +128,7 @@ weather is good. You probably also should know it's not an up close view, but it
 
 ## Taxi, Uber/Lyft
 
-Don't use them unless you are stranded somewhere not near the subway or you feel like you are in danger, especially on a bus or subway. They cost 
+Don't use them unless you are stranded somewhere not near the subway or you feeling unsafe on a bus or the subway. They cost 
 a lot more than you probably wanna pay, tbh. Plus if you're trying to use a taxi you have to try to flag one down, which kinda sucks. 
 
 ## Car
