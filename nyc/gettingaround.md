@@ -91,7 +91,8 @@ To use your MetroCard, swipe it on the turnstile with the black stripe facing yo
 it asks you to swipe again at the same turnstile or a different one. 
 
 **Important:** As soon as the screen says '**GO**' you **need** to move through the turnstile quickly. If you don't go quickly enough, the turnstile will 
-lock and you'll have to pay again. 
+lock and you'll have to pay again. If you miss it and you're using an unlimited MetroCard, your options are to wait 20ish minutes to use it again or buy 
+another MetroCard with at least $2.90 on it at a vending machine in the station. 
 
 ###### MetroCard photo courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
 
