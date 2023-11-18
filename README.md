@@ -1,4 +1,4 @@
-# Mason's Guides To Doing Stuff That Mason Likes To Do
+# Mason's Guides To Doing Stuff That He Likes To Do
 
 ## Table of Contents
 
