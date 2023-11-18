@@ -93,7 +93,7 @@ it asks you to swipe again at the same turnstile or a different one.
 **Important:** As soon as the screen says '**GO**' you **need** to move through the turnstile quickly. If you don't go quickly enough, the turnstile will 
 lock and you'll have to pay again. 
 
-###### MetroCard courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
+###### MetroCard photo courtesy of [The Metropolitan Transportation Authority of New York](https://omny.info/omny-readers)
 
 ## Bus
 
