@@ -42,7 +42,7 @@ Subway fare costs $2.90. If you transfer between trains in a station or to a bus
 
 There are two ways to pay your fare: OMNY and MetroCard.
 
-**Note: MetroCard will be phased out by 2024**
+**Note: MetroCard will likely be phased out in 2024**
 
 #### OMNY
 
