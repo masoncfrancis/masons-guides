@@ -10,8 +10,6 @@ There are multiple train services that serve NYC: Amtrak, MTA Metro-North, MTA L
 
 Amtrak is your go to if you're looking for long distance routes. It may be cheaper than flying, but it might not be the cheapest of these train options. It does serve more locations though.
 
-Amtrak trains 
-
 ## MTA Metro-North
 
 Placeholder text
